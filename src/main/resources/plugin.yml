@@ -1,0 +1,4 @@
+name: DownloadsServers
+version: '1.0'
+main: nl.inferno.downloadsServers.DownloadsServers
+api-version: '1.19'
